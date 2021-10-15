@@ -10,6 +10,6 @@
 
 .container * {
   display: block;
-  height: 30px;
+  height: 90px;
   border: 1px solid black;
 }
