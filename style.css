@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+}
+
+.container {
+  display: block;
+  height: 50vh;
+  border: 2px solid black;
+}
+
+.container * {
+  display: block;
+  height: 30px;
+  border: 1px solid black;
+}
